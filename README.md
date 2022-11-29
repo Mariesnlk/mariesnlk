@@ -10,9 +10,9 @@
 
 - 🎓 &nbsp; Finished my Bachelor's degree in software engineering this year.
 
-- 🌱 &nbsp; Obsessed with hackathons
+- 🌱 &nbsp; Obsessed with hackathons (find more info in <a href="https://devpost.com/Mariesnlk?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"> Devpost</a>)
 
-- ✍️ &nbsp; Part of H.E.R. DAO organization 
+- ✍️ &nbsp; Part of <a href="https://www.her-dao.xyz/"> H.E.R. DAO </a> organization 
 
 <hr>
 
@@ -66,10 +66,15 @@
 
 <hr>
 
-<h2>🛠 To Learn</h2>
+<h2>🛠 Learning now</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50" width="50"/>
 <img src="https://cryptologos.cc/logos/solana-sol-logo.png" height="50" width="50"/>
+</p>
+<hr>
+
+<h2>🛠 To Learn</h2>
+<p align="center">
 <img src="https://cryptologos.cc/logos/1inch-1inch-logo.png" height="50" width="50"/>
 <img src="https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" height="40" width="100"/>
 <img src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" height="40" width="100"/>
