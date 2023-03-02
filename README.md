@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./cover.png" height="300" width="800"/>
-</p>
+</p> -->
 
 <h1> Hi! I'm Mariia  🙋 </h1>
 
