@@ -2,6 +2,10 @@
   <img src="./cover.png" height="300" width="800"/>
 </p> -->
 
+<p align="right">
+  <img src="./qr-code.png" height="100" width="100"/>
+</p>
+
 <h1> Hi! I'm Mariia  🙋 </h1>
 
 <h2> 👩‍🎓•💻 About Me </h2>
