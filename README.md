@@ -74,6 +74,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50" width="50"/>
 <img src="https://cryptologos.cc/logos/solana-sol-logo.png" height="50" width="50"/>
+<img src="https://cryptologos.cc/logos/near-protocol-near-logo" height="50" width="50"/>
 </p>
 <hr>
 
