@@ -16,7 +16,7 @@
 
 - 🌱 &nbsp; Obsessed with hackathons (find more info in <a href="https://devpost.com/Mariesnlk?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"> Devpost</a>)
 
-- ✍️ &nbsp; Core member of <a href="https://www.her-dao.xyz/"> H.E.R. DAO </a>  and <a href="[https://www.her-dao.xyz](https://www.tum-blockchain.com/)/"> TUM Blockchain Club  </a>  
+- ✍️ &nbsp; Core member of <a href="https://www.her-dao.xyz/"> H.E.R. DAO </a>  and <a href="https://www.tum-blockchain.com/"> TUM Blockchain Club  </a>  
 
 <hr>
 
