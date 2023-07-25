@@ -100,7 +100,7 @@ One thing I know for sure is that learning never stops in this game. I'm stoked 
 
 <h2> 🤝🏻 Connect with Me </h2>
 You can reach me via <a href="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/">
-  <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/> or <img src="image.png" height="20">: mariesnlk90@gmail.com
+  <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/> or <img src="image.png" height="20"/>: mariesnlk90@gmail.com
 </a>
 <!-- <p align="center">
 <a href="https://www.linkedin.com/in/mariia-synelnyk-6815601a0/">
